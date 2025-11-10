@@ -1,6 +1,8 @@
-# C++ Coding
+## C++ Coding
 
-/Finding CGPA
+Example 1: Finding CGPA
+
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;
