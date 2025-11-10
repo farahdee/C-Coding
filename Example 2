@@ -1,6 +1,5 @@
 Example 2: Finding largest number between three integers
 
-```cpp
 #include <iostream>
 #include <string>
 using namespace std;
