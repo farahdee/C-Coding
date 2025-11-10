@@ -1,0 +1,35 @@
+Example 3: Finding final price
+
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main ()
+{
+    double purchase, discount, finalPrice;
+
+    cout << "Enter your purchase amount: ";
+    cin >> purchase;
+
+    if (purchase >= 100)
+    {
+        discount = 0.90;
+        finalPrice = purchase * discount;
+    }
+
+    else if (purchase >= 50 && purchase <= 99)
+    {
+        discount = 0.95;
+        finalPrice = purchase * discount;
+    }
+
+    else
+    {
+        finalPrice = purchase;
+    }
+
+    cout << "Your final price is: " << finalPrice;
+
+    return 0;
+}
