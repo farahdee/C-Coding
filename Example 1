@@ -23,3 +23,6 @@ int main ()
     cout << "Name: " << name << endl;
     cout << "Age: " << age << endl;
     cout << "CGPA: " << cgpa << endl;
+
+    return 0;
+}
