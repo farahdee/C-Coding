@@ -27,7 +27,9 @@ int main ()
     cout << "Age: " << age << endl;
     cout << "CGPA: " << cgpa << endl;
 
-/Finding largest number between three integers
+Example 2: Finding largest number between three integers
+
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;
@@ -51,7 +53,9 @@ int main ()
     return 0;
 }
 
-/Finding final price
+Example 3: Finding final price
+
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;
