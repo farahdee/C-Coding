@@ -1,4 +1,4 @@
-Example 3: Finding final price
+Example 3: Finding final price after discount
 
 #include <iostream>
 #include <string>
